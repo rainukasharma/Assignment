@@ -1,0 +1,25 @@
+renuka@Jarvis:~/Desktop/Assignment$ node Assignment.js
+Employees who worked 7 consecutive days:
+[ { Name: 'CEreira Jr, JEse', Position: 'WFS000456' } ]
+Employees with short breaks (1 to 10 hours):
+[
+  { name: 'CaMaXaWE, CeghaW', position: 'WFS000153' },
+  { name: 'Xee, XaCar', position: 'WFS000200' },
+  { name: 'De Xa Cerda, IgWaciE', position: 'WFS000318' },
+  { name: 'MraW, WiXXiaC Ha', position: 'WFS000345' },
+  { name: 'CEreira Jr, JEse', position: 'WFS000456' },
+  { name: 'GrACfieXd, CErWeXiAs', position: 'WFS000515' },
+  { name: 'DeXgadiXXE REdarMe, ChrisMiaW S', position: 'WFS000523' },
+  { name: 'HaCiXMEW, DeaWMe DevEW', position: 'WFS000536' },
+  { name: 'REdrigAez, GraWdEW AWgeX', position: 'WFS000550' }
+]
+Employees with long shifts (more than 14 hours):
+[
+  {
+    Name: 'DeXgadiXXE REdarMe, ChrisMiaW S',
+    Position: 'WFS000523',
+    ShiftStart: 2023-09-16T22:29:50.999Z,
+    ShiftEnd: 2023-09-17T14:00:01.000Z,
+    ShiftDuration_in_hours: '16.50'
+  }
+]
